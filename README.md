@@ -1,0 +1,1 @@
+docker build -t biking/new_shiny_app .
